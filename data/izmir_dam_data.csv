@@ -1,0 +1,32 @@
+date,dam_name,current_volume_mcm,total_capacity_mcm,fill_ratio,inflow_mcm,outflow_mcm,evaporation_mcm,latitude,longitude,district,water_source
+2024-01-01,Tahtalı,120.5,150.0,0.803,2.1,1.8,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-02,Tahtalı,120.8,150.0,0.805,2.3,1.7,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-03,Tahtalı,121.2,150.0,0.808,2.5,1.6,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-04,Tahtalı,121.5,150.0,0.810,2.2,1.8,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-05,Tahtalı,121.8,150.0,0.812,2.4,1.7,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-06,Tahtalı,122.1,150.0,0.814,2.6,1.5,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-07,Tahtalı,122.4,150.0,0.816,2.3,1.8,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-08,Tahtalı,122.7,150.0,0.818,2.5,1.6,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-09,Tahtalı,123.0,150.0,0.820,2.7,1.4,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-10,Tahtalı,123.3,150.0,0.822,2.4,1.7,0.3,38.3167,27.1500,Konak,Tahtalı Deresi
+2024-01-01,Balçova,18.5,25.0,0.740,0.8,0.6,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-02,Balçova,18.7,25.0,0.748,0.9,0.5,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-03,Balçova,18.9,25.0,0.756,1.0,0.4,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-04,Balçova,19.1,25.0,0.764,0.8,0.6,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-05,Balçova,19.3,25.0,0.772,0.9,0.5,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-06,Balçova,19.5,25.0,0.780,1.1,0.3,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-07,Balçova,19.7,25.0,0.788,0.9,0.5,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-08,Balçova,19.9,25.0,0.796,1.0,0.4,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-09,Balçova,20.1,25.0,0.804,1.2,0.2,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-10,Balçova,20.3,25.0,0.812,1.0,0.4,0.1,38.3833,27.0167,Balçova,Balçova Deresi
+2024-01-01,Güzelhisar,32.4,45.0,0.720,1.5,1.2,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-02,Güzelhisar,32.7,45.0,0.727,1.6,1.1,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-03,Güzelhisar,33.0,45.0,0.733,1.7,1.0,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-04,Güzelhisar,33.3,45.0,0.740,1.5,1.2,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-05,Güzelhisar,33.6,45.0,0.747,1.6,1.1,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-06,Güzelhisar,33.9,45.0,0.753,1.8,0.9,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-07,Güzelhisar,34.2,45.0,0.760,1.6,1.1,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-08,Güzelhisar,34.5,45.0,0.767,1.7,1.0,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-09,Güzelhisar,34.8,45.0,0.773,1.9,0.8,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+2024-01-10,Güzelhisar,35.1,45.0,0.780,1.7,1.0,0.2,38.2500,27.1000,Aliağa,Güzelhisar Deresi
+

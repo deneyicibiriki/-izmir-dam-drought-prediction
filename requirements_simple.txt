@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+matplotlib
+seaborn
+scikit-learn
+plotly
+python-dotenv
+beautifulsoup4
+lxml
+openpyxl
+xlsxwriter
+geopy
+pydantic
+
