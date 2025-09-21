@@ -3,6 +3,14 @@ Google Colab Demo - İzmir Baraj Doluluk ve Kuraklık Riski Tahmini
 Bu dosya Colab'da çalıştırılmak üzere hazırlanmıştır.
 """
 
+# Gerekli kütüphaneleri import et
+import pandas as pd
+import numpy as np
+import requests
+from datetime import datetime, timedelta
+import sys
+import os
+
 def run_colab_demo():
     """Colab demo'yu çalıştır"""
     print("🚀 İZMİR BARAJ DOLULUK VE KURAKLIK RİSKİ TAHMİNİ - COLAB DEMO")
@@ -28,15 +36,10 @@ def run_colab_demo():
     
     try:
         # Proje modüllerini import et
-        import sys
-        import os
         sys.path.append('/content/-izmir-dam-drought-prediction')
         
         from services.izsu_api_service import IZSUAPIService
         from services.weather_api_service import WeatherAPIService
-        import pandas as pd
-        import numpy as np
-        from datetime import datetime, timedelta
         
         print("✅ Modüller başarıyla import edildi")
         
